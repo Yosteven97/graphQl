@@ -5,4 +5,5 @@ Running an Express GraphQL Server
 2. npm install.
 3. type 'node server.js' on your terminal and run it.
 4. open http://localhost:4000/graphql on your browser.
+5. type { hello }, press button start and you can see the result of data.
 5. happy coding :-)
